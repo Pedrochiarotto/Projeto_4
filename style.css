@@ -106,7 +106,6 @@ a:hover{
  #primario {
     width: 270px;
     float: left;
-   
     margin: 0px 0px 20px 195px;
 }
 
@@ -122,11 +121,8 @@ a:hover{
 #secundario{
     width: 270px;
     float: left;
-    
     margin: 0 0 20px 15px;
 }
-
-
 
 /*caixa*/
 .caixa{
